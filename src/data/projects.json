@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Vesta",
+    "description": "This website, developed for a Ukrainian volunteer organization, is dedicated to helping veterans and their families. Built with Next.js, Tailwind CSS, TypeScript, and Strapi, that providing performance, ease of design implementation, type-safe coding, and flexible content management, making it ideal for this site.",
+    "image": "/img/vesta.jpg",
+    "link": "https://vesta-main-site.vercel.app/"
+  },
+  {
+    "title": "Superfoods",
+    "description": "Superfood - the site of a Ukrainian company that offers superfoods for your health. Website utilizes the powerful combination of Next.js, Tailwind CSS, TypeScript, and Sanity to deliver high performance, flexibility, and a visually appealing interface. Explore our website to discover a platform where cutting-edge technology meets elegant design.",
+    "image": "/img/superfood.jpg",
+    "link": "https://vesta-main-site.vercel.app/"
+  },
+  {
+    "title": "Power Pulse.",
+    "description": "A power pulse app connected to power pulse backend(https://github.com/Alina-Pishak/project-PowerTeam-back) - you can sign up and get your own diary. Built with React, Styled Components, Material UI, Redux Toolkit, offers a easy and clear user experience. Using Styled Components and Material UI ensures a modern design with customizable styling, while Redux Toolkit provides efficient state management for seamless interactions and dynamic content updates.",
+    "image": "/img/power-pulse.png",
+    "link": "https://vesta-main-site.vercel.app/"
+  },
+  {
+    "title": "Carp Travel",
+    "description": "Carp Travel agency landing page. Technology stack Next.js, Tailwind CSS, Typescript, that provide you with a seamless and engaging experience.",
+    "image": "/img/carptravel.png",
+    "link": "https://vesta-main-site.vercel.app/"
+  },
+  {
+    "title": "Fruit Quest: Match 3 Game",
+    "description": "Fruit Punch is an exhilarating match-3 puzzle game that invites you to a vibrant world filled with delicious fruit puzzles. Built with pure HTML, CSS, and JavaScript. We also used the Swiper.js library, that deliver smooth and responsive slideshows, making navigation intuitive and enjoyable for all users.",
+    "image": "/img/fruit-quiz.webp",
+    "link": "https://vesta-main-site.vercel.app/"
+  },
+  {
+    "title": "Medicine Delivery",
+    "description": "A Medicine Delivery app connected to medicine delivery backend(https://github.com/Alina-Pishak/medicine-delivery-backend) - you can choose some product, add to favorites and add to cast. Built with React, Material UI, Redux, offers a easy and clear user experience.",
+    "image": "/img/medicine-delivery.png",
+    "link": "https://medicine-delivery.netlify.app/"
+  },
+  {
+    "title": "Phonebook",
+    "description": "A simple phonebook connected to Swagger backend API - you can register, log in, add, remove, filter or edit contacts, log out.",
+    "image": "/img/phonebook.png",
+    "link": "https://vesta-main-site.vercel.app/"
+  },
+  {
+    "title": "TastyTreats",
+    "description": "Application with delicious recipes. You can choose your favourite dish and cook it by recipe.",
+    "image": "/img/tasty-treats.png",
+    "link": "https://vesta-main-site.vercel.app/"
+  }
+]
