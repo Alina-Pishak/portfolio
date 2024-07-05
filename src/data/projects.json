@@ -9,42 +9,66 @@
     "title": "Superfoods",
     "description": "Superfood - the site of a Ukrainian company that offers superfoods for your health. Website utilizes the powerful combination of Next.js, Tailwind CSS, TypeScript, and Sanity to deliver high performance, flexibility, and a visually appealing interface. Explore our website to discover a platform where cutting-edge technology meets elegant design.",
     "image": "/img/superfood.jpg",
-    "link": "https://vesta-main-site.vercel.app/"
+    "link": "https://superfood.vercel.app/"
   },
   {
     "title": "Power Pulse.",
-    "description": "A power pulse app connected to power pulse backend(https://github.com/Alina-Pishak/project-PowerTeam-back) - you can sign up and get your own diary. Built with React, Styled Components, Material UI, Redux Toolkit, offers a easy and clear user experience. Using Styled Components and Material UI ensures a modern design with customizable styling, while Redux Toolkit provides efficient state management for seamless interactions and dynamic content updates.",
+    "description": "A power pulse app connected to power pulse backend(https://github.com/Alina-Pishak/project-PowerTeam-back) - you can sign up and get your own diary. Built with React, Styled Components, Material UI, Redux, offers a easy and clear user experience. Using Styled Components and Material UI ensures a modern design with customizable styling, while Redux Toolkit provides efficient state management for seamless interactions and dynamic content updates.",
     "image": "/img/power-pulse.png",
-    "link": "https://vesta-main-site.vercel.app/"
+    "link": "https://arch819.github.io/project-PowerTeam-front/welcome"
   },
   {
     "title": "Carp Travel",
-    "description": "Carp Travel agency landing page. Technology stack Next.js, Tailwind CSS, Typescript, that provide you with a seamless and engaging experience.",
+    "description": "A modern and responsive travel booking website developed with Next.js, Tailwind CSS, Typescript, that provide you with a seamless and engaging experience.. This application offers a sleek design  and intuitive user experience for browsing and booking travel destinations.",
     "image": "/img/carptravel.png",
-    "link": "https://vesta-main-site.vercel.app/"
+    "link": "https://carp-travel-murex.vercel.app/"
   },
   {
     "title": "Fruit Quest: Match 3 Game",
     "description": "Fruit Punch is an exhilarating match-3 puzzle game that invites you to a vibrant world filled with delicious fruit puzzles. Built with pure HTML, CSS, and JavaScript. We also used the Swiper.js library, that deliver smooth and responsive slideshows, making navigation intuitive and enjoyable for all users.",
     "image": "/img/fruit-quiz.webp",
-    "link": "https://vesta-main-site.vercel.app/"
+    "link": "https://fruit-quest.netlify.app/"
   },
   {
     "title": "Medicine Delivery",
-    "description": "A Medicine Delivery app connected to medicine delivery backend(https://github.com/Alina-Pishak/medicine-delivery-backend) - you can choose some product, add to favorites and add to cast. Built with React, Material UI, Redux, offers a easy and clear user experience.",
+    "description": "A comprehensive medicine delivery platform featuring a custom backend developed with Node.js and Express. The frontend is built using React, Material UI, Redux, providing a seamless user experience for ordering medicines online. The website integrates real-time updates, ensuring reliable service. ",
     "image": "/img/medicine-delivery.png",
     "link": "https://medicine-delivery.netlify.app/"
   },
   {
     "title": "Phonebook",
-    "description": "A simple phonebook connected to Swagger backend API - you can register, log in, add, remove, filter or edit contacts, log out.",
+    "description": "A responsive single-page application built with React, Redux, React Router, Material UI. Modules, designed to manage contacts efficiently. The app features add, edit, delete, and search functionalities for contacts, and uses Axios for handling HTTP requests.",
     "image": "/img/phonebook.png",
-    "link": "https://vesta-main-site.vercel.app/"
+    "link": "https://alina-pishak.github.io/phonebook/"
   },
   {
-    "title": "TastyTreats",
-    "description": "Application with delicious recipes. You can choose your favourite dish and cook it by recipe.",
+    "title": "Tasty Treats",
+    "description": "A dynamic and user-friendly cooking recipes website built with HTML, SCSS, and JavaScript, enhanced by the Swiper.js library for smooth and responsive slideshow functionality. The site features a clean and modern design, providing an engaging experience for users seeking delicious recipes.",
     "image": "/img/tasty-treats.png",
-    "link": "https://vesta-main-site.vercel.app/"
+    "link": "https://svitlanaparyiska.github.io/project-4Cooking/"
+  },
+  {
+    "title": "Neon store",
+    "description": "Discover the Neon Store, an immersive neon sign browsing experience powered by React with Material UI. With a sleek and modern design, seamless filtering and a wide range of products to explore. Visit here to view our collection.",
+    "image": "/img/neon-store.png",
+    "link": "https://neon-store.netlify.app/"
+  },
+  {
+    "title": "Ape NFT",
+    "description": "Explore the Ape NFT MVP platform, showcasing cutting-edge NFT technology. Developed with Next.js, Tailwind CSS, TypeScript, offering a minimalist and intuitive interface for exploring and collecting unique digital assets. Visit here to start your NFT journey.",
+    "image": "/img/ape-nft.png",
+    "link": "https://ape-nft-mvp.netlify.app/"
+  },
+  {
+    "title": "WebStudio",
+    "description": "Explore Web Studio, a creative platform built with HTML, CSS, and JavaScript. Designed to showcase portfolio and services with a modern and responsive approach. Visit Web Studio to learn more.",
+    "image": "/img/webstudio.png",
+    "link": " https://alina-pishak.github.io/webstudio/"
+  },
+  {
+    "title": "The Watch Spot",
+    "description": "Explore the Wristwatch Project, a sleek presentation of watches created using HTML, CSS, and JavaScript. Featuring a minimalist design and interactive elements for exploring various timepieces. Visit here for more details.",
+    "image": "/img/watch-spot.png",
+    "link": "https://vitiukvv.github.io/project-wristwatch/"
   }
 ]

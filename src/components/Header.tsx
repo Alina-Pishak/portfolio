@@ -6,7 +6,7 @@ import Typography from "@mui/material/Typography";
 
 const Header: React.FC = () => {
   return (
-    <AppBar position="static">
+    <AppBar position="static" color="primary">
       <Toolbar>
         <Typography variant="h6">My Portfolio</Typography>
       </Toolbar>

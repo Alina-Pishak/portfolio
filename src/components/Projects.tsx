@@ -34,11 +34,12 @@ const Projects: React.FC = () => {
       <Grid container spacing={4}>
         {projects.map((project, index) => (
           <Grid item xs={12} sm={6} md={4} key={index}>
-            <HoverCard sx={{ height: 485 }}>
+            <HoverCard>
               <CardActionArea
                 href={project.link}
                 target="_blank"
                 rel="noopener noreferrer"
+                sx={{ height: 485 }}
               >
                 <CardMedia
                   component="img"
